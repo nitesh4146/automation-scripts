@@ -12,7 +12,7 @@ Prerequisite: Python3 installed
 
 ## Running the script ##
 
-1. Change to code directory
+* Change to code directory\
 `cd automation-scripts/automatic_msg_monitor_alarm/`
-2. Run program
-`python3 monitor.py
+* Run program\
+`python3 monitor.py`
